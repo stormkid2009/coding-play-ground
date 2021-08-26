@@ -1,0 +1,4 @@
+this is to generate Crypto Random String
+
+$node
+>require ("crypto").randomBytes(64).toString("hex")
